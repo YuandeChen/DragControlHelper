@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragControlHelperTest", "DragControlHelperTest\DragControlHelperTest.csproj", "{3AB0C88E-D60D-4D1E-B2BA-127C11AD4563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UICommon", "UICommon\UICommon.csproj", "{FC3FAC70-A4BB-45EF-B7CA-4A74368E5D81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB0C88E-D60D-4D1E-B2BA-127C11AD4563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB0C88E-D60D-4D1E-B2BA-127C11AD4563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB0C88E-D60D-4D1E-B2BA-127C11AD4563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB0C88E-D60D-4D1E-B2BA-127C11AD4563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3FAC70-A4BB-45EF-B7CA-4A74368E5D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3FAC70-A4BB-45EF-B7CA-4A74368E5D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3FAC70-A4BB-45EF-B7CA-4A74368E5D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3FAC70-A4BB-45EF-B7CA-4A74368E5D81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
